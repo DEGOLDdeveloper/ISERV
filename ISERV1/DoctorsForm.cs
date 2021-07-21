@@ -42,7 +42,7 @@ namespace ISERV1
         {
             if (firstnameTextBox.Text == String.Empty || lastnameTextBox.Text == String.Empty || specialisationTextBox.Text == String.Empty) //  проверка на пустые поля
             {
-                MessageBox.Show("Заполните недостающие поля");
+                MessageBox.Show("Заполнитее недостающие поля");
             }
             else
             {
